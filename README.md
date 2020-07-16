@@ -2,7 +2,7 @@
 
 The repository contains the code for:
 <br/>
-[On Learning to Modulate the Gradient for Fast Adaptation of Neural Networks](http://https://github.com/chrysts/generative_preconditioner)
+[On Modulating the Gradient for Meta-Learning](http://https://github.com/chrysts/generative_preconditioner)
 <br/>
 ECCV 2020
 
@@ -12,7 +12,7 @@ ECCV 2020
 ```` 
 @inproceedings{Christian2020ModGrad,
 author = {Simon, Christian and Koniusz, Piotr and Nock, Richard and Harandi, Mehrtash},
-title = {On Learning to Modulate the Gradient for Fast Adaptation of Neural Networks},
+title = {On Modulating the Gradient for Meta-Learning},
 booktitle = {The European Conference on Computer Vision},
 year = {2020}
 }
