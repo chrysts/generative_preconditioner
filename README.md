@@ -1,4 +1,4 @@
-# Gradient Modulation for Fast Adaptation of Neural Networks (Meta-Learning)
+# On Modulating the Gradient for Meta-Learning
 
 The repository contains the code for:
 <br/>
