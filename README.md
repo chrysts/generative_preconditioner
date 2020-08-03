@@ -7,6 +7,9 @@ The repository contains the code for:
 ECCV 2020
 
 
+Please refer to each folder for different tasks: classification, regression, and RL.
+
+
 ## Citation
 
 ```` 
