@@ -2,7 +2,7 @@
 
 The repository contains the code for:
 <br/>
-[On Modulating the Gradient for Meta-Learning](http://https://github.com/chrysts/generative_preconditioner)
+[On Modulating the Gradient for Meta-Learning](http://github.com/chrysts/generative_preconditioner)
 <br/>
 ECCV 2020
 
