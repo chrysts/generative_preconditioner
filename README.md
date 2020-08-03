@@ -20,3 +20,9 @@ booktitle = {The European Conference on Computer Vision},
 year = {2020}
 }
 ````
+
+
+## Acknowledgement
+Thank you for CAVIA code: 
+regression and RL tasks are adopted from https://github.com/lmzintgraf/cavia
+
