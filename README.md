@@ -6,6 +6,13 @@ The repository contains the code for:
 <br/>
 ECCV 2020
 
+Comparison with prior methods: MAML, Meta-SGD, and Ours.
+
+<br/>
+<img src="https://github.com/chrysts/generative_preconditioner/blob/master/comparison_method.png?raw=true"  height="220px" width="700px"  />
+
+
+
 
 Please refer to each folder for different tasks: classification, regression, and RL.
 
