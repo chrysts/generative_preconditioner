@@ -3,6 +3,7 @@
 The repository contains the code for:
 <br/>
 [On Modulating the Gradient for Meta-Learning](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545.pdf)
+[Supp. Material](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545-supp.pdf)
 <br/>
 ECCV 2020
 
